@@ -237,6 +237,7 @@ const styles = StyleSheet.create({
   wrapperLandscape: {
     ...ifIphoneX({
       height: 53,
+      paddingHorizontal: 25
     }, {
       height: 43,
     }),
