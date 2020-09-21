@@ -27,8 +27,8 @@
     "url": "https://github.com/vonovak/react-native-bottom-toolbar/issues"
   },
   "dependencies": {
-    "react-native-vector-icons": "4.4.3",
-    "react-native-iphone-x-helper": "^1.0.1"
+    "react-native-vector-icons": "7.1.0",
+    "react-native-iphone-x-helper": "^1.2.0"
   },
   "homepage": "https://github.com/vonovak/react-native-bottom-toolbar#readme"
 }
