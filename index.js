@@ -94,7 +94,7 @@ class BottomToolbar extends Component {
     orientationColumnWrapStyle: isLandscape() ? styles.columnWrapLandscape : styles.columnWrapPortrait,
   });
 
-  componentWillMount() {
+  componentDidMount() {
     Dimensions.addEventListener("change", this.handler);
   }
 
